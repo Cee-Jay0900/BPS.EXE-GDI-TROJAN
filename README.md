@@ -1,0 +1,2 @@
+# BPS.EXE-GDI-TROJAN
+I made another gdi trojan FOR EDUCATIONAL PURPOSES ONLY!!!
